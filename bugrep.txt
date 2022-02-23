@@ -1,0 +1,8 @@
+id - 1
+summary - Incorrect result of addition (+) for three-digit numbers in calculatorSTR - 1. Run calc.exe
+2. click [4] button three times
+3. click [+] button
+4. click [4] button three times
+5. click [=] button
+severity - critical
+prioriyy - high
