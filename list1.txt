@@ -1,0 +1,6 @@
+FILE CREATION
+
+file type	result
+jpeg		ok
+txt		fail
+doc		ok
